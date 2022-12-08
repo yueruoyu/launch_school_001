@@ -1,7 +1,4 @@
 # README #
 <<<<<<< HEAD
-checkout
-=======
-
-check it!!!
->>>>>>> updateREADME
+Hello this is from main!!!
+MAIN~~~
